@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VintageGentleman
-- 👀 I’m interested in ... Java, JavaScript, JSON etc
+- 👀 I’m interested in ... Java, JavaScript, HTML, CSS etc
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Some kind of project that I could learn coding. 
 - 📫 How to reach me ... Send me a message 
