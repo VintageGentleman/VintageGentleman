@@ -46,11 +46,5 @@
   <span style="font-size:200%">(2) Or Send me a e-mail = pica0818@gmail.com</span> 
 </div>
 
-<br>
-<br>
-<br>
-
-<div align=center><h1>🔭 My profile Page </h1></div>
-외부링크: https://vintagegentleman.github.io/
 
 
